@@ -75,6 +75,15 @@ Please more about the API in the documentation;
 
 http://lundman.net/wiki/index.php/Protocol
 
+# Compiling
+
+```shell
+# cd FXP.One
+# git clone https://github.com/lundman/lion.git
+# ./autogen.sh
+# ./configure
+# gmake
+```
 
 
 

@@ -18,5 +18,12 @@ Makefile.in
 #
 # Top level generated files specific to this top level dir
 #
+/lion
+/stamp-h1
+/config.h
 /config.log
 /config.status
+/clients/clomps/clomps
+/clients/clomps/clomps-irc
+/engine/FXP.Oned
+
